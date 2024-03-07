@@ -3,7 +3,7 @@ Un blog para el curso de git y github de platzi
 
     El curso de Git y GitHub de Platzi es lo que me hacia falta, para enterder más esta herramienta.
 
-En este curso vemos de todo:
+## En este curso vemos de todo:
 
     * Todos los comando de Git
     * El flujo de trabajo de Git
